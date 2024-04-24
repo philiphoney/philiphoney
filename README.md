@@ -1,8 +1,3 @@
-<a href="https://github.com/philiphoney/">
-  <img align="center" src="https://github-readme-stats-nine-roan-30.vercel.app/api?username=philiphoney&theme=github_dark&show_icons=true"/>
-</a>
-<br>
-
 ## Skills
 <div>
         <img src="https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=python" alt="Python">&nbsp;&nbsp;&nbsp;&nbsp;
